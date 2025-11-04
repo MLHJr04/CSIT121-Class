@@ -270,6 +270,147 @@ LAB04
 
 
 
+<Doctype HTML>
+<caption>
+    
+    My table <caption>
+     
+    </caption>
+    <thread>
+
+        <tr>
+            <th scope="col"> Header 1 </th>
+    <th scope="col" col> Header 2 </th>
+       <th scope="col"> Header 3 </th>
+        </tr>
+
+    </thread>
+    <tbody>
+
+
+        <img src="beagle.png" alt="picture of a beagle">
+        <tr>
+            <td>Data 1A</td>
+
+     <td>  Data 1b </td>
+
+    <td> Data 1c</td>
+
+    <tr> Data 1d</td>
+
+        <tr> Data 1e</tr>
+
+        <tr>
+            <td> Data 2a</td>
+
+            <td> Data 2b</td>
+
+           <td> Data 2c</td>
+
+        </tr>
+
+<img src="images 3.jpg" alt="picture of a sunflower">
+
+    <tr>
+            <td>Data 1A</td>
+
+     <td>  Data 1b </td>
+
+    <td> Data 1c</td>
+
+    <tr> Data 1d</td>
+
+        <tr> Data 1e</tr>
+
+        <tr>
+            <td> Data 2a</td>
+
+            <td> Data 2b</td>
+
+           <td> Data 2c</td>
+
+        </tr>
+
+
+    </tbody>
+
+    <tfoot>
+
+        <tr>
+            <td>footer 1</td>
+    <td>footer 2</td>
+ <td>footer 3</td>
+   <tr>
+     </tr>
+    </tfoot>
+
+</table>
+<Doctype HTML>
+      <html= lang="eng">
+
+      <nav>
+        <ul>
+            <li><a href=tirelist.html >Page 1</a></li>
+            <li><a href= contact.html >Page 2</a>/li>
+                </li>
+            </ul>
+        </ul>
+      </nav>
+<form action = /submit_form method= post>
+    <fieldset>
+        <legend> User Information=</legend>
+
+           <label for username>yorhun:</label><br>
+                   <input type= text id= username name=username required><br><br>
+
+              <label> Preferred Contact method:</label><br>
+
+                 <input type = radio id = email_contact name= contact_method value= email>
+
+                          <label for= email>email</label><br>
+
+                 <input type= radio id= phone_contact name contact method value= phone>
+
+                         <label for= phone contact>Phone</label><br><br>
+
+                   <label>Interests:</label><br>
+
+            <Input> type= checkbox id= coding name= interests value coding
+
+                   <label> for= coding> coding</label><br>
+
+                       <input type= checkbox id reading name= intrests value= reading>
+
+                  <label for= reading>Reading</label><br>
+
+                       <input type= checkbox id= sports name= interests value= sports>
+
+             <label for = country>Country:</label><br>
+             
+                       <select id= country name= country>
+
+                  <option value= usa>United States</option>
+
+                          <option value= canada> <Canada/option>
+
+                         <option value=" uk">United Kingdom</option>
+
+                       <option value="austrailia">Asutrailia</option>
+
+                </select><br><br>
+
+                  <label for=" comments">Comments:</label><br>
+
+                        <textarea id="comments" name=" comments" rows=" 4" cols=" 60"></textarea><br><br>
+            
+                  <input type="submit" value="submit">
+
+                     </fieldset>
+
+                </form>
+
+
+                <p> All around, this aaisngment showed me how to implement a tier list type of chart. I think this assignment also helped me learned how to preperly link 2 CSS/html files together in able to complete the linking. I like that this aissngment showed me how make another type of chart. I overall learned alot from this particular assignment.</p>
 
 
 
