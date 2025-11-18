@@ -653,4 +653,6 @@ body {
 </body>
 </html>
 
+[lab09.html](https://github.com/user-attachments/files/23611974/lab09.html)
+<img width="721" height="65" alt="Validation for html" src="https://github.com/user-attachments/assets/0f53b0ec-cd47-4923-9529-1b064e0124f2" />[employees.xml](https://github.com/user-attachments/files/23611976/employees.xml)
 
