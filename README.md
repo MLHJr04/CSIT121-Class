@@ -656,3 +656,114 @@ body {
 [lab09.html](https://github.com/user-attachments/files/23611974/lab09.html)
 <img width="721" height="65" alt="Validation for html" src="https://github.com/user-attachments/assets/0f53b0ec-cd47-4923-9529-1b064e0124f2" />[employees.xml](https://github.com/user-attachments/files/23611976/employees.xml)
 
+
+
+
+
+
+
+
+LAB 10
+
+[html 2.html](https://github.com/user-attachments/files/23760922/html.2.html)
+<Doctype HTML>
+<header>
+
+</header>
+<header>
+
+</header>
+<body>
+
+</body>
+
+<style>
+
+</style>
+
+<p>A png file is a type of file that helps with images that are loose.
+     it's a file that helps get rid of the bacgkround for people who just want an image with no background.
+     It's made with graphic designers in mind.
+    They help with backgrounds looking more natural.
+     </p>
+
+     <h1 style="color: purple;"> Orange text </h1>
+
+<p style= "color: purple;"> An orange paragraph
+
+     
+<Doctype HTML>
+<header>
+
+</header>
+<header>
+
+</header>
+<body>
+
+</body>
+
+</p>Again, Pngs are used mostly to help get rid of backgrounds.
+ They're designed with vectors in mind. 
+They're made for brighter color palettes.
+And they also seem to be made for charts.
+
+ <h1 style="color: green;"> Orange text </h1>
+
+<p style= "color: green;"> An orange paragraph
+<Doctype HTML>
+<header>
+
+</header>
+<header>
+
+</header>
+<body>
+
+</body>
+
+
+<h1 style="color: orange;"> Orange text </h1>
+
+<p style= "color: orange;"> An orange paragraph
+
+<p> A PNG is resourceful when there's little compression loss. 
+    It also benefits for when the format is good enough for having storage permits.
+     It can help support a lot of different colors.
+      And it can also be helpful when you decide to work with layers.</p>
+
+[html 4.html](https://github.com/user-attachments/files/23760926/html.4.html)
+<Doctype HTML>
+<header>
+
+</header>
+<header>
+
+</header>
+<body>
+
+</body>
+
+<p>What are the advantages of PNG format
+    What is a PNG  file, how to or convert the popular graphic file format
+    Jan 14, 2022 Johnson Dave
+</p>
+
+<p>
+    Png Files
+    Adobe - Creative Commons
+    August 14, 2026
+
+
+     <h1 style="color: yellow;"> Orange text </h1>
+
+<p style= "color: yellow;"> An orange paragraph
+
+</p>
+
+<img width="721" height="65" alt="validated html 3" src="https://github.com/user-attachments/assets/339f9694-9203-4c11-9088-7826c33972ff" />
+<img width="721" height="65" alt="valiated 4" src="https://github.com/user-attachments/assets/1896f785-f609-401a-94d3-2db1a3d8923b" />
+<img width="721" height="65" alt="Validaed html 1" src="https://github.com/user-attachments/assets/080bc373-a1c5-43e9-b7f0-0ffd87af30cc" />
+<img width="721" height="65" alt="validated html 2" src="https://github.com/user-attachments/assets/67790ebf-f910-46e8-abb0-72a1e638f592" />
+
+
