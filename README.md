@@ -1,4 +1,4 @@
-[aboutme.html](https://github.com/user-attachments/files/22750802/aboutme.html)# CSIT121
+[reflection.html](https://github.com/user-attachments/files/24067561/reflection.html)[links.html](https://github.com/user-attachments/files/24067550/links.html)<img width="491" height="132" alt="validationer 2" src="https://github.com/user-attachments/assets/8cf0eb67-d64d-4f45-88b2-79179d20fc68" />[aboutme.html](https://github.com/user-attachments/files/22750802/aboutme.html)# CSIT121
 For work
 
 LAB01
@@ -765,5 +765,140 @@ And they also seem to be made for charts.
 <img width="721" height="65" alt="valiated 4" src="https://github.com/user-attachments/assets/1896f785-f609-401a-94d3-2db1a3d8923b" />
 <img width="721" height="65" alt="Validaed html 1" src="https://github.com/user-attachments/assets/080bc373-a1c5-43e9-b7f0-0ffd87af30cc" />
 <img width="721" height="65" alt="validated html 2" src="https://github.com/user-attachments/assets/67790ebf-f910-46e8-abb0-72a1e638f592" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINAL PROJECT
+[Table.html](https://github.com/user-attachments/files/24067544/Table.html)
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Example Table</title>
+  </head>
+<body>
+    <table>
+        <caption>How Much I''ve learned</caption>
+        <thead>
+            <tr>
+                <th>learned</th>
+                <th>learning 1</th>
+                <th>Learning 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Content</td>
+                <td>Core</td>
+                <td>Procedure</td>
+            </tr>
+            <tr>
+                <td>Content</td>
+                <td>Subject</td>
+                <td>Procedure</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+           <td colspan="4">Total</td>
+           <td>How much was passed on</td>
+          </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
+
+<link rel="stylesheet" href="reflection.html"
+<img width="721" height="65" alt="validationer" src="https://github.com/user-attachments/assets/0303f636-bc3e-4994-9256-d08c6cad2f16" />
+
+[U<Doctype Html>
+
+    <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>links</title>
+</head>
+
+<a href="url">"https://www.w3schools.com/">code helping
+    
+<a href="url">"https://validator.w3.org/#validate_by_upload"> Checker
+
+<link rel="stylesheet" href="Table.html"
+    
+ploading links.html…]()
+
+<img width="491" height="132" alt="validationer 2" src="https://github.com/user-attachments/assets/2b5a3735-4ff5-42f4-a21f-b582587a8ac3" />
+
+
+[lists.html](https://github.com/user-attachments/files/24067556/lists.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<body>
+<p> Javascript - A programming language that allows me to run through interactive browsers with Node.js running as well.
+    Github - A place where I could share my projects after I'm done
+    CSS - A type of styling used in coding when needed to present a nicely formatted HTML 
+</p>
+</body>
+
+<link rel="stylesheet" href="links.html"
+
+<img width="747" height="76" alt="validationer 3" src="https://github.com/user-attachments/assets/f82cd4ba-60e0-46ed-8800-e63f316e1344" />
+
+
+[Uploa<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>reflection</Table></title>
+</head>
+</header>
+
+<body> 
+<p>
+     What I have learned over the past few months about this class is that it taught me how to code a website.
+    It introduced me to a lot of new things and a lot fo terms that are used int his space.
+    It taught me how to use tables and be able to learn how to properly implement CSS styles into anything that we want.
+    It gifted me with knowledge with what to do when making an entire website by myself but showed basic functionality, which is a great start.
+
+
+    This was a great class, there were a lot fo dchoices that helped influences any knowledge I had on code and proved massively onit.
+    I think for the future, what may hold for future students is them being able to know what was passed down from this class' students, to them.
+    To help enhance things more, you can show them how each functionality is portrayed and where it can help them with their site.
+    All around, this was a great experience.
+</p>
+</body>
+<div class="header"> </div>
+background
+<div>class= header</div>
+<h1>hello</h1>
+</div>
+<img src="images/brain computer" alt="reflection logo" class="logo-image">
+
+<link rel="stylesheet" href="lists.html"ding reflection.html…]()
+
+
+
+<img width="721" height="65" alt="validationer4" src="https://github.com/user-attachments/assets/02bf3aac-c4c6-4a77-957b-d6a3247b1bf6" />
+
+
+
+
+
 
 
